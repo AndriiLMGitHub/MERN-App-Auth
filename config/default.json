@@ -1,0 +1,6 @@
+{
+    "port" : 5000,
+    "jwtSecret" : "Andrey App MERN Stack",
+    "mongoUri" : "mongodb+srv://Andrey:Andrey12345@cluster0.7tbrl.mongodb.net/mernDB?retryWrites=true&w=majority",
+    "baseUrl" : "http://localhost:5000"
+}

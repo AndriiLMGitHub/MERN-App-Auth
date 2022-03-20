@@ -1,0 +1,25 @@
+
+.wrapper {
+  position: relative;
+}
+
+.succ {
+  position:absolute !important;
+  top: 20px;
+  right: 20px;
+  z-index: 9999;
+  display: none;
+}
+.col-gr {
+  color: #737479;
+}
+#loginForm {
+color: var(--bs-gray-500) !important;
+font-size: 14px;
+}
+#loginForm input[type="email"] {
+  font-size: 16px;
+}
+#loginForm input[type="password"] {
+  font-size: 16px;
+}
